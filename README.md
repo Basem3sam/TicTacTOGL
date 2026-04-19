@@ -65,9 +65,16 @@ Copy headers from `freeglut/include/` into:
 C:\Program Files (x86)\CodeBlocks\MinGW\include\
 ```
 
-### 3. Copy DLL to system
+### 3. Copy bin contents to two locations
 
-Copy `freeglut.dll` from `freeglut/bin/` into:
+Copy everything inside `freeglut/bin/` into **both** of these:
+
+Into Code::Blocks MinGW:
+```
+C:\Program Files (x86)\CodeBlocks\MinGW\bin\
+```
+
+Into Windows system (so the DLL is found at runtime):
 ```
 C:\Windows\SysWOW64\
 ```
