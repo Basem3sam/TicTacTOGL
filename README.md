@@ -15,7 +15,7 @@ A classic Tic Tac Toe game built in **C++14** with an **OpenGL + freeGLUT** grap
 
 | Name | Role |
 |---|---|
-| Basem Esam | Project Lead, Architecture, AI, OpenGL UI |
+| Basem Esam | |
 | Ahmed Abdallah | |
 | Ahmed Essam | |
 | Ahmed Faraj | |
